@@ -1,0 +1,23 @@
+  #results {
+         display: none;
+		 background-color: #6899a6;
+       }
+	   
+	body {
+		background-image: url("background.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	
+	.card {
+		background-color: #607ca8;
+	}
+	
+	#tipOutput {
+		background-color: #65c4db;
+	}
+	
+	.heading {
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+		color: #4e3566;
+	}
